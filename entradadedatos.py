@@ -40,5 +40,3 @@ print("entre los numeros:" , (num1), "y", (num2),"el segundo es mayor o igual qu
 print(f"entre los numeros: {num1} y {num2} el segundo es mayor o igual que el primero: {a}")
 #opcion 4
 print("entre los numeros: {} y {} el segundo es mayor o igual que el primero: {}".format(num1,num2,a))
-
-hola
